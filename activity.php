@@ -1,0 +1,103 @@
+<h1>Hands-on Activity</h1>
+
+<?php
+$table = array(
+    "Student",
+    "Firstname",
+    "Middlename",
+    "Lastname",
+    "Section",
+    "Course",
+    "Yearlevel"
+)
+"body"=>[array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+),
+=array(
+    "Student"=>"Student",
+    "Firstname"=>"Firstname",
+    "Middlename"=>"Middlename",
+    "Lastname"=>"Lastname",
+    "Section"=>"Section",
+    "Course"=>"Course",
+    "Yearlevel"=>"Yearlevel"
+)];
+?>
